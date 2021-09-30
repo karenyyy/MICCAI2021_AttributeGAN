@@ -8,7 +8,8 @@ Jiarong Ye, Yuan Xue, Peter Liu, Richard Zaino, Keith C. Cheng, Xiaolei Huang <b
 > [video](https://drive.google.com/file/d/16yzgxdz6JIWK3hl8Cp5sKgBl6lvLwJJH/view?usp=sharing)
 >
 >**Abstract:** Generative models have been applied in the medical imaging domain for various image recognition and synthesis tasks. However, a more controllable and interpretable image synthesis model is still lacking yet necessary for important applications such as assisting in medical training. In this work, we leverage the efficient self-attention and contrastive learning modules and build upon state-of-the-art generative adversarial networks (GANs) to achieve an attribute-aware image synthesis model, termed AttributeGAN, which can generate high-quality histopathology images based on multi-attribute inputs. In comparison to existing single-attribute conditional generative models, our proposed model better reflects input attributes and enables smoother interpolation among attribute values. We conduct experiments on a histopathology dataset containing stained H&E images of urothelial carcinoma and demonstrate the effectiveness of our proposed model via comprehensive quantitative and qualitative comparisons with state-of-the-art models as well as different variants of our model.
-
+>
+>**Keywords:** Histopathology image synthesis, Attribute-aware conditional generative model, Conditional contrastive learning 
 
 
 # Architecture
