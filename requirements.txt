@@ -1,0 +1,15 @@
+multiprocessing
+torch
+torchvision
+PIL
+matplotlib
+pandas
+kornia
+tensorboardX
+numpy
+tqdm
+fire
+einops
+gsa_pytorch
+linear_attention_transformer
+
